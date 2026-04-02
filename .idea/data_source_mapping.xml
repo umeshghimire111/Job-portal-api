@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query_1.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/00-application_config/00-create-table-application_config" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/00-application_config/01-insert-into-application-config" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/01-jobs/01-create-table-jobs.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/01-jobs/01-insert-into-table-jobs.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/02-users/00-create-table-users.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/02-users/01-insert-into-users-table.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/03-application/00-create-table-application.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/04-role/00-create-table-roles.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/04-role/01-insert-into-roles.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/05-status/00-create-table-status.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/05-status/01-insert-into-table-status.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/06-user-tokens/00-create-table-user_tokens.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/07-forget-password/00-create-table-forget_password.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/08-user-email-logs/00-create-table-users-email_logs.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/09-upload_profiles/00-create-table-upload_profiles.sql" value="72632a20-01e7-4aea-ba45-90c50c0d6778" />
+  </component>
+</project>

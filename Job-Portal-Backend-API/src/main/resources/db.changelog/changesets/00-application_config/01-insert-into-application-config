@@ -1,0 +1,12 @@
+-- liquibase formatted sql
+-- changeset umeshghimire:01
+-- preconditions onFail:CONTINUE onError:HALT
+-- precondition-sql-check expectedResult:0 SELECT COUNT(*) FROM application_config
+
+INSERT INTO application_config (`key`, `value`)
+VALUES ('mail.username', 'umeshghimire443@gmail.com'),
+       ('mail.password', 'rqeo aznc pypm bqsp'),
+       ('mail.host', 'smtp.gmail.com'),
+       ('mail.port', '587'),
+       ('origin', 'http://localhost:5173'),
+       ('file.base-path', 'D://workFileUpload/Job_portal');

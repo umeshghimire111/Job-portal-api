@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query_1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/00-application_config/00-create-table-application_config" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/00-application_config/01-insert-into-application-config" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/01-jobs/01-create-table-jobs.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/01-jobs/01-insert-into-table-jobs.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/02-users/00-create-table-users.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/02-users/01-insert-into-users-table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/03-application/00-create-table-application.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/04-role/00-create-table-roles.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/04-role/01-insert-into-roles.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/05-status/00-create-table-status.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/05-status/01-insert-into-table-status.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/06-user-tokens/00-create-table-user_tokens.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/07-forget-password/00-create-table-forget_password.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/08-user-email-logs/00-create-table-users-email_logs.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog/changesets/09-upload_profiles/00-create-table-upload_profiles.sql" dialect="MySQL" />
+  </component>
+</project>

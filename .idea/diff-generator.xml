@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig" isSnapshotScratchFile="true">
+    <option name="snapshotDb" value="false" />
+    <option name="snapshotDirValue" value="$PROJECT_DIR$/Job-Portal-Backend-API/src/main/resources/db.changelog" />
+    <option name="snapshotModelValue" value="Job-Portal-Backend-API:Job-Portal-Backend-API" />
+    <option name="snapshotScratchFile" value="true" />
+  </component>
+</project>

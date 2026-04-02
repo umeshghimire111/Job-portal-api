@@ -1,0 +1,3 @@
+
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.jobportal.Job.Portal.Backend.API.processor.CustomEnvPropertiesPostProcessor
